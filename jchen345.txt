@@ -1,5 +1,4 @@
 Who is Jason and why do I need to parse it. 
-<<<<<<< HEAD
 
 "Json" redirects here. For people with similar names, see J Son.
 JavaScript Object Notation
